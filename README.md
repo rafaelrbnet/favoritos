@@ -13,7 +13,9 @@ Sistema de administração das entidades Cliente, Produto e Favoritos
 
 * Demonstração
 
-https://api-pontos-turisticos-v1.herokuapp.com/
+https://favoritosmagalu.herokuapp.com  
+https://favoritosmagalu.herokuapp.com/admin/
+
 
 Usuário: gest  
 Token: 	xxx
