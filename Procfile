@@ -1,1 +1,0 @@
-web: gunicorn favoritos.wsgi --log-file -
