@@ -17,6 +17,6 @@ https://favoritosmagalu.herokuapp.com
 https://favoritosmagalu.herokuapp.com/admin/
 
 Usuário: magalu
-Token: 	209eb130f86988af755fce02ec0f17b316088f0d		
+Token: 	9b6a1c01afe7b2522bac81802a302363fb420509		
 
-Obs.: Envie o http om o header: Authorization: Token 209eb130f86988af755fce02ec0f17b316088f0d
+Obs.: Envie o http om o header: Authorization: Token 9b6a1c01afe7b2522bac81802a302363fb420509
