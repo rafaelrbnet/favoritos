@@ -16,8 +16,7 @@ Sistema de administração das entidades Cliente, Produto e Favoritos
 https://favoritosmagalu.herokuapp.com  
 https://favoritosmagalu.herokuapp.com/admin/
 
+Usuário: magalu
+Token: 	209eb130f86988af755fce02ec0f17b316088f0d		
 
-Usuário: gest  
-Token: 	xxx
-
-Obs.: Envie o http om o header: Authorization: Token xxxx
+Obs.: Envie o http om o header: Authorization: Token 209eb130f86988af755fce02ec0f17b316088f0d
