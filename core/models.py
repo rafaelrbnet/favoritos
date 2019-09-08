@@ -16,4 +16,5 @@ class Favoritos(models.Model):
         Produto, verbose_name='Produtos', related_name='favoritos', blank=True
     )
 
-
+    def __str__(self):
+        return self.cliente.nome
