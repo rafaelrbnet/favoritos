@@ -6,7 +6,3 @@ db.sqlite3
 imagens
 .env
 db.sqlite3
-runtime.txt
-requirements.txt
-requirements-dev.txt
-Procfile
